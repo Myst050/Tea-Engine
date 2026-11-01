@@ -6,7 +6,7 @@ import static org.lwjgl.opengl.GL11.*;
 
 public class main {
     public static void Main(String[] args){
-        System.out.println("HELLO TEA ENGINE");
+        System.out.println("HELLO TEA ENGINE!");
 
         Display.create(800, 600, "Tea Engine");
 
